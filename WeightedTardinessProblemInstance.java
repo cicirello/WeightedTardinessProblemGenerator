@@ -30,7 +30,7 @@ import java.io.PrintWriter;
  * Instance generator for the weighted tardiness scheduling problem with sequence-dependent
  * setups.
  * 
- * For information on the problem, including relevant publications see: www.cicirello.org/datasets/wtsds/ 
+ * For information on the problem, including relevant publications see: http://www.cicirello.org/datasets/wtsds/ 
  *
  * On that page, you'll find a description of this generator, a benchmark problem set of instances of this problem, and copies of the publications where the
  * problem set and generator orignated, along with papers describing various algorithms for the problem.
