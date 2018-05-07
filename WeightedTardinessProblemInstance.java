@@ -6,7 +6,7 @@ import java.util.Random;
 import java.io.PrintWriter;
 /**
  *
- * Copyright 2003, 2007, 2014, 2015, 2016 Vincent A. Cicirello
+ * Copyright 2003, 2007, 2014, 2015, 2016, 2018 Vincent A. Cicirello
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -30,7 +30,7 @@ import java.io.PrintWriter;
  * Instance generator for the weighted tardiness scheduling problem with sequence-dependent
  * setups.
  * 
- * For information on the problem, including relevant publications see: http://www.cicirello.org/datasets/wtsds/ 
+ * For information on the problem, including relevant publications see: https://www.cicirello.org/datasets/wtsds/ 
  *
  * On that page, you'll find a description of this generator, a benchmark problem set of instances of this problem, and copies of the publications where the
  * problem set and generator orignated, along with papers describing various algorithms for the problem.
@@ -40,7 +40,7 @@ import java.io.PrintWriter;
  *
  *
  * @author (Vincent A. Cicirello) 
- * @version (08.11.2016)
+ * @version (05.07.2018)
  */
 public class WeightedTardinessProblemInstance
 {
